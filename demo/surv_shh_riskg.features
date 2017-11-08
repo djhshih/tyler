@@ -1,0 +1,57 @@
+colours:
+  bal:  [0.5, 0.5, 0.5]
+  amp:  [1.0, 0.2, 0.2]
+  gain: [1.0, 0.5, 0.5]
+  loss: [0.5, 0.5, 1.0]
+  high:  [0.2, 0.3, 0.2]
+  std:  [0.2, 0.6, 0.2]
+  low: [0.2, 0.9, 0.2]
+  met:  [0.8, 0.0, 0.0]
+  ana:  [1.0, 0.5, 0.5]
+  male: [0.3, 0.3, 0.9]
+  female: [0.9, 0.3, 0.3]
+  infant: [0.95, 0.45, 0.31]
+  child: [0.79, 0.60, 0.78]
+  adult: [0.35, 0.46, 0.60]
+
+  
+
+features:
+  GLI2.Amp:
+    type: map
+    map:
+      N: bal
+      A: amp
+  chr14q.L:
+    type: map
+    map:
+      N: bal
+      A: loss
+  M.Status4:
+    type: map
+    map:
+      M0: bal
+      M+: met
+  Risk.MolClin:
+    type: map
+    map:
+      low: low
+      standard: std
+      high: high
+  Gender:
+    type: map
+    map:
+      F: female
+      M: male
+  Age.Group:
+    type: map
+    map:
+      Infant: infant
+      Child: child
+      Adult: adult
+  Histology.Anaplastic:
+    type: map
+    map:
+      'Non-anaplastic': bal
+      Anaplastic: ana
+

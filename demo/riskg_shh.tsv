@@ -1,0 +1,159 @@
+Sample	Subgroup	OS	Death	Risk.Molecular	Risk.Clinical	Risk.MolClin	Risk.MolClin2	Gender	Age.Group	Age.Group2	Pediatric.Group	Age.Group3	Histology	Histology.Anaplastic	Histology.Nodular	p53.Status	GLI2.Amp	chr14q.L	M.Status4
+MB-817	SHH	60	0	low	NA	NA	NA	M	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	NA
+MB-542	SHH	2	1	low	NA	NA	NA	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-472	SHH	60	0	low	NA	NA	NA	F	Child	Pediatric	Child	Non-infant	NA	NA	NA	NA	N	N	NA
+MB-188	SHH	60	0	low	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-185	SHH	60	0	low	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-1243	SHH	22	0	low	NA	NA	NA	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	NA
+MB-1236	SHH	20	0	low	NA	NA	NA	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-1233	SHH	40	0	standard	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-1204	SHH	41	1	low	high	NA	NA	M	Adult	Adult	NA	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	NA
+MB-1202	SHH	34	0	low	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-1201	SHH	29	0	low	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	NA
+MB-1196	SHH	60	0	low	NA	NA	NA	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	NA
+MB-1076	SHH	13	1	low	NA	NA	NA	F	Infant	Pediatric	Infant	Infant	NA	NA	NA	NA	N	N	NA
+MB-1074	SHH	60	0	low	NA	NA	NA	F	Child	Pediatric	Child	Non-infant	NA	NA	NA	NA	N	N	NA
+MB-1072	SHH	60	0	low	NA	NA	NA	M	Infant	Pediatric	Infant	Infant	NA	NA	NA	NA	N	N	NA
+MB-1067	SHH	16	1	low	NA	NA	NA	F	Infant	Pediatric	Infant	Infant	NA	NA	NA	NA	N	N	NA
+MB-827	SHH	60	0	standard	NA	NA	NA	F	Child	Pediatric	Child	Non-infant	NA	NA	NA	Wildtype	N	A	NA
+MB-766	SHH	1.1	1	NA	high	NA	NA	M	Infant	Pediatric	Infant	Infant	Anaplastic	Anaplastic	Neither	NA	NA	NA	M0
+MB-434	SHH	3.5	1	standard	high	NA	NA	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	A	NA
+MB-184	SHH	60	1	standard	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	NA
+MB-1234	SHH	60	0	standard	NA	NA	NA	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	NA
+MB-1200	SHH	60	0	standard	NA	NA	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	NA
+MB-1195	SHH	8	1	standard	NA	NA	NA	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	NA
+MB-7	SHH	13.6	1	high	standard	high	high	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	A	A	M0
+MB-631	SHH	1.4	1	high	NA	high	high	NA	NA	NA	NA	NA	NA	NA	NA	NA	A	A	NA
+MB-474	SHH	35	0	high	NA	high	high	M	Child	Pediatric	Child	Non-infant	NA	NA	NA	NA	A	A	NA
+MB-541	SHH	14	1	high	high	high	high	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Mutant	A	A	M+
+MB-1284	SHH	27	1	high	NA	high	high	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	A	A	M+
+MB-943	SHH	14.03	1	high	high	high	high	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	NA	A	N	M0
+MB-599	SHH	44	0	high	high	high	high	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	A	N	M0
+MB-1360	SHH	18.7	1	high	standard	high	high	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	A	N	M0
+MB-1218	SHH	1	1	high	high	high	high	F	Adult	Adult	NA	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	A	N	M0
+MB-131	SHH	5.96	1	high	high	high	high	F	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	N	A	M+
+MB-1216	SHH	22	1	high	high	high	high	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	M+
+MB-1	SHH	5.2	1	high	high	high	high	F	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	NA	N	A	M+
+MB-706	SHH	6	0	low	NA	standard	NA	NA	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M+
+MB-684	SHH	3.6	0	low	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M+
+MB-621	SHH	4.58	0	standard	high	standard	standard	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M+
+MB-618	SHH	6.5	1	standard	high	standard	standard	F	Child	Pediatric	Child	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M+
+MB-606	SHH	12	1	low	NA	standard	NA	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-562	SHH	24	1	standard	high	standard	standard	F	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-513	SHH	29.9792960662526	1	low	high	standard	standard	F	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M+
+MB-512	SHH	31.304347826087	0	low	high	standard	standard	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M+
+MB-507	SHH	2.6	1	low	high	standard	standard	F	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	M+
+MB-477	SHH	23	0	low	high	standard	standard	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M+
+MB-429	SHH	27	1	low	NA	standard	NA	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-37	SHH	60	0	low	NA	standard	NA	F	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M+
+MB-1376	SHH	22	0	standard	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-1349	SHH	33.8958904109589	1	standard	high	standard	NA	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M+
+MB-1348	SHH	15.8	1	low	NA	standard	NA	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M+
+MB-1277	SHH	60	0	low	NA	standard	NA	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M+
+MB-1262	SHH	8	1	low	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-1210	SHH	22	0	low	high	standard	standard	F	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M+
+MB-118	SHH	55.5945205479452	0	low	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	NA	N	N	M+
+MB-1174	SHH	3	0	low	high	standard	standard	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M+
+MB-1144	SHH	60	0	standard	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-1107	SHH	57	0	low	NA	standard	NA	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M+
+MB-907	SHH	39	1	standard	standard	standard	standard	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	A	M0
+MB-832	SHH	23.8	1	standard	standard	standard	standard	F	Child	Pediatric	Child	Infant	NA	NA	NA	Wildtype	N	A	M0
+MB-758	SHH	60	0	standard	standard	standard	standard	M	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	A	M0
+MB-742	SHH	8	0	high	standard	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	A	M0
+MB-665	SHH	2.2	0	standard	NA	standard	NA	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	NA	N	A	M0
+MB-643	SHH	1.73	1	high	NA	standard	NA	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	A	M0
+MB-592	SHH	51	0	high	standard	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Mutant	N	A	M0
+MB-516	SHH	60	0	standard	standard	standard	standard	M	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	A	M0
+MB-494	SHH	58	0	standard	standard	standard	standard	F	Adult	Adult	NA	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	A	M0
+MB-460	SHH	45	1	high	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	N	A	M0
+MB-428	SHH	32	1	high	standard	standard	standard	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Mutant	N	A	M0
+MB-224	SHH	12.5	1	high	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	NA	N	A	M0
+MB-216	SHH	8.4	1	standard	high	standard	standard	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	NA	N	A	M0
+MB-1188	SHH	15	0	high	standard	standard	standard	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	M0
+MB-1133	SHH	40	0	high	standard	standard	standard	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	M0
+MB-1112	SHH	24	0	standard	high	standard	standard	F	Adult	Adult	NA	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	A	M0
+MB-1101	SHH	60	0	standard	standard	standard	standard	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	A	M0
+MB-982	SHH	60	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-913	SHH	60	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-843	SHH	44.1205479452055	1	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	NA	NA	NA	Mutant	N	N	M0
+MB-842	SHH	60	0	low	standard	low	low	F	NA	NA	NA	NA	NA	NA	NA	Wildtype	N	N	M0
+MB-834	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-822	SHH	25.3	0	low	standard	low	low	M	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-815	SHH	39.96	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-762	SHH	0.5	1	low	NA	low	NA	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-755	SHH	43	0	low	standard	low	low	F	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-752	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Infant	NA	NA	NA	Wildtype	N	N	M0
+MB-749	SHH	13.9	0	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-747	SHH	41	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-735	SHH	22	0	standard	standard	low	low	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-732	SHH	21	1	standard	standard	low	low	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-731	SHH	49	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-729	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-728	SHH	25	0	low	standard	low	low	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-709	SHH	26	0	low	standard	low	low	NA	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	M0
+MB-707	SHH	27	0	low	high	low	low	NA	Adult	Adult	NA	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	N	N	M0
+MB-704	SHH	60	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	M0
+MB-689	SHH	5.9	0	low	NA	low	NA	F	Adult	Adult	NA	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-688	SHH	7	0	standard	NA	low	NA	F	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-679	SHH	2.2	0	low	NA	low	NA	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-661	SHH	10.4	0	low	NA	low	NA	F	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-660	SHH	3.8	0	low	NA	low	NA	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-630	SHH	0.3	1	low	NA	low	NA	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-615	SHH	7.4	0	low	NA	low	NA	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-610	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-601	SHH	38	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-6	SHH	60	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-595	SHH	45	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-590	SHH	56	0	low	high	low	low	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M0
+MB-583	SHH	4.1	0	low	NA	low	NA	M	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-573	SHH	60	0	standard	standard	low	low	F	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-564	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-557	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-556	SHH	60	0	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Mutant	N	N	M0
+MB-545	SHH	60	0	standard	standard	low	low	F	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-53	SHH	60	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-519	SHH	39.1221532091097	1	low	standard	low	low	M	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-518	SHH	7.8	1	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	M0
+MB-46	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-456	SHH	60	0	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-454	SHH	35	0	low	standard	low	low	F	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-450	SHH	47	0	low	standard	low	low	M	Adult	Adult	NA	Non-infant	NA	NA	NA	Wildtype	N	N	M0
+MB-341	SHH	17	1	low	standard	low	low	M	Child	Pediatric	Child	Infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-175	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-16	SHH	60	0	low	standard	low	low	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1374	SHH	31	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1358	SHH	46	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-1333	SHH	39	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1332	SHH	25	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1300	SHH	23.2	1	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	NA	NA	NA	NA	N	N	M0
+MB-1287	SHH	47	1	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-1280	SHH	35	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1276	SHH	32	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1273	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1269	SHH	60	0	low	standard	low	low	M	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1267	SHH	10	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	NA	NA	NA	Wildtype	N	N	M0
+MB-1263	SHH	60	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1256	SHH	60	0	standard	standard	low	low	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1247	SHH	35	1	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1246	SHH	16	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-124	SHH	60	0	low	standard	low	low	F	Child	Pediatric	Child	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1217	SHH	60	0	low	standard	low	low	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1215	SHH	60	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1211	SHH	14	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1208	SHH	35	0	standard	high	low	low	F	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	N	N	M0
+MB-1205	SHH	60	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1192	SHH	10	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1191	SHH	9	0	standard	standard	low	low	F	Adult	Adult	NA	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1187	SHH	10	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1186	SHH	10	0	low	standard	low	low	F	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
+MB-1185	SHH	13	0	standard	high	low	low	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M0
+MB-1179	SHH	11.3	1	standard	high	low	low	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M0
+MB-1177	SHH	12	0	low	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1152	SHH	34	0	standard	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	Mutant	N	N	M0
+MB-1148	SHH	60	0	standard	high	low	low	M	Child	Pediatric	Child	Non-infant	Anaplastic	Anaplastic	Neither	Mutant	N	N	M0
+MB-1137	SHH	38	0	low	standard	low	low	F	Infant	Pediatric	Infant	Infant	MBEN	Non-anaplastic	Desmoplastic or MBEN	Wildtype	N	N	M0
+MB-1129	SHH	44	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1110	SHH	60	0	standard	high	low	low	F	Adult	Adult	NA	Non-infant	Anaplastic	Anaplastic	Neither	Wildtype	N	N	M0
+MB-1106	SHH	23	0	standard	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	Wildtype	N	N	M0
+MB-1094	SHH	11	0	standard	standard	low	low	M	Infant	Pediatric	Infant	Infant	Desmoplastic	Non-anaplastic	Desmoplastic or MBEN	NA	N	N	M0
+MB-103	SHH	60	0	low	standard	low	low	M	Child	Pediatric	Child	Non-infant	Classic	Non-anaplastic	Neither	NA	N	N	M0
